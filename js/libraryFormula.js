@@ -1,12 +1,4 @@
-function ploschadKvadrata(a) {
-    return a*a ;
-}
-function ploschadPriamougolnika(a, b) {
-    return a*b ;
-}
-function ploschadParalelograma(a, h) {
-    return a*h ;
-}
-function ploschadRomba(a, h) {
-    return a*h ;
-}
+const ploschadKvadrata = (a) => a*a
+const ploschadPriamougolnika = (a,b) => a*b
+const ploschadParalelograma = (a,h) => a*h
+const ploschadRomba = (a,h) => a*h
